@@ -1,0 +1,4 @@
+color 0a
+title GERAR PLANILHA DE DADOS DA PASTA ATUAL
+echo @off
+dir/b/s>PLANILHA.XLSX
